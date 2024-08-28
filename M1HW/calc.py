@@ -1,9 +1,9 @@
 # CTS 285
 # M1HW
 # Max Cayton, Joshua Carter
-# 8/27/2024
+# 8/28/2024
 
-# Calculation Functions Bronze
+# Calculation Functions
 def add(x, y):
     return x + y
 
