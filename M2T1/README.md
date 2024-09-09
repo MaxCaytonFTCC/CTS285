@@ -34,3 +34,4 @@ TODO: Write a Flask App that does something useful!
 
 To Start:
 - flask --app hello run
+- flask --debug --app hello run
