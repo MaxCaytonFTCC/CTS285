@@ -7,6 +7,6 @@
 
 ## Lessons Learned
 
-## instructions
+## Instructions
 Initial tutorial: https://blog.pythonanywhere.com/121/
 (We're using Codespaces instead of PA)
