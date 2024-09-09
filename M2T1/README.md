@@ -28,3 +28,9 @@ To Turn off Venv:
 Install Flask:
 - pip install flask
 - pip freeze > requirements.txt
+
+Write Minimal Flask App to Test it
+TODO: Write a Flask App that does something useful!
+
+To Start:
+- flask --app hello run
