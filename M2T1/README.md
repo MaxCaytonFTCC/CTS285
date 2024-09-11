@@ -35,3 +35,13 @@ TODO: Write a Flask App that does something useful!
 To Start:
 - flask --app hello run
 - flask --debug --app hello run
+
+---
+
+## Absolute & Relative Links
+
+### Absolute:
+<a href = "http://bing.com">Bing</a>
+
+### Relative
+<a href = "action">Bing</a>
