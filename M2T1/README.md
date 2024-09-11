@@ -41,7 +41,9 @@ To Start:
 ## Absolute & Relative Links
 
 ### Absolute:
+<!--
 <a href = "http://bing.com">Bing</a>
 
 ### Relative
 <a href = "action">Bing</a>
+-->
