@@ -1,15 +1,13 @@
 # Minimal Flask App
-from flask import Flask;
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return """
-    <h3>Welcome to my shiny new Flask app!</h3>
-    <p>This is a paragraph</p>
-    <a href = "action">Click here</a>
-    """
+    # Find template from /templates
+    name = "John"
+    return render_template("main_page.html", name=name)
 
 @app.route("/action")
 def action():
