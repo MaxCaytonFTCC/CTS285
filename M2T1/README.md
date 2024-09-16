@@ -35,3 +35,7 @@ TODO: Write a Flask App that does something useful!
 To Start:
 - flask --app hello run
 - flask --debug --app hello run
+
+## M2T2
+Next, we start with a "first cut with dummy data"
+- add main_page.html
