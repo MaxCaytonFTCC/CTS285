@@ -9,7 +9,6 @@ app.config["DEBUG"] = True
 
 @app.route("/", methods=["GET"])
 def index():
-    init_db()
     return redirect(url_for("login"))
 
 @app.route("/welcome", methods=["GET"])
